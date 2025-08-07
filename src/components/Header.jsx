@@ -38,6 +38,7 @@ const Header = () => {
 				</div>
 
 				<Image
+					isNeedTagImg={true}
 					srcImg={"./images/screen-mockups.svg"}
 					altImg={"Illustration Mockups Svg Icon"}
 				/>
